@@ -1,6 +1,6 @@
-title: "electronic Computational Homotopy Theory"
-subtitle: "Online Research Community"
-author: "Jesse Keyes"
+title: "Jordan Sawdy - Math Tutoring"
+#subtitle: "Online Research Community"
+author: "Jordan Sawdy"
 description: " "
 permalink: /:title/
 lang: "en"
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: eCHT, url: "https://echtorc.github.io/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:jessekeyes2@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/eCHTorc"}
+  - {title: Mail, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
+  #- {title: Github, icon: github, url: "https://github.com/eCHTorc"}
 
 plugins:
  - jekyll-feed
