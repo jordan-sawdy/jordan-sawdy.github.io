@@ -10,7 +10,7 @@
 The electronic Computational Homotopy Theory (eCHT) online research community sponsors a variety of activities related to research in pure mathematics, mostly in algebraic topology, homotopy theory, and related topics.  See the links below for more information about us:
 
 <ul>
-  <li> <a href="https://echtorc.github.io/who-we-are/"> Who We Are </a> </li>
+  <li> <a href="https://jordan-sawdy.github.io/about/"> About Me </a> </li>
 
   <li> <a href="https://echtorc.github.io/echt-research-seminar"> eCHT Research Seminar </a> 
     <ul> <li> <a href="https://echtorc.github.io/echt-research-seminar-reading-group"> eCHT Research Seminar Reading Group </a> </li> </ul>
