@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
-  #- {title: Github, icon: github, url: "https://github.com/eCHTorc"}
+  - {title: Github, icon: github, url: "https://github.com/eCHTorc"}
 
 plugins:
  - jekyll-feed
