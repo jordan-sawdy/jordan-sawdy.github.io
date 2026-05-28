@@ -19,11 +19,11 @@ show_minimal: true             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: eCHT, url: "https://echtorc.github.io/"}
+  - {title: Home, url: "https://jordan-sawdy.github.io/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/eCHTorc"}
+  #- {title: Github, icon: github, url: "https://github.com/eCHTorc"}
 
 plugins:
  - jekyll-feed
