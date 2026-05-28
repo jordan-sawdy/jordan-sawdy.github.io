@@ -4,6 +4,8 @@
   <h3> Maintained by <a href="https://isaksendan.github.io/"> Dan Isaksen</a>, <a href="https://sites.google.com/view/jkeyes"> Jesse Keyes</a>, and <a href="https://quigleyjd.github.io/"> JD Quigley</a> </h3>
 </div>
 
+<img width="688" height="688" alt="jsawdy" src="https://github.com/user-attachments/assets/e3fbaec7-af73-46a8-a9a7-a593d5b2345b" />
+
 <div style="margin-top: 0.5px; margin-bottom: 0.5px;">
 The electronic Computational Homotopy Theory (eCHT) online research community sponsors a variety of activities related to research in pure mathematics, mostly in algebraic topology, homotopy theory, and related topics.  See the links below for more information about us:
 
