@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: About Me, icon: user-graduate, url: "https://jordan-sawdy.github.io/about/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Email Me, url: "mailto:jordan.sawdy@gmail.com"}
+  - {title: Contact, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
   #- {title: Github, icon: github, url: "https://github.com/eCHTorc"}
 
 plugins:
