@@ -19,7 +19,7 @@ show_minimal: true             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: Home, url: "https://jordan-sawdy.github.io/"}
+  - {title: Home, icon: house, url: "https://jordan-sawdy.github.io/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
