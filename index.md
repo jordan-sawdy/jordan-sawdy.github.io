@@ -1,8 +1,7 @@
 <div style="text-align: left; margin-top: 1px; margin-bottom: 0.75px;">
-  <h1> electronic Computational Homotopy Theory (eCHT) </h1>
-  <h2> Online Research Community </h2>
-  <h3> Maintained by <a href="https://isaksendan.github.io/"> Dan Isaksen</a>, <a href="https://sites.google.com/view/jkeyes"> Jesse Keyes</a>, and <a href="https://quigleyjd.github.io/"> JD Quigley</a> </h3>
-</div>
+  <h1> Private Mathematics Tutoring </h1>
+  <h2> Jordan Sawdy, Ph.D. </h2>
+  </div>
 
 <img width="400" height="400" alt="jsawdy" src="https://github.com/user-attachments/assets/e3fbaec7-af73-46a8-a9a7-a593d5b2345b" />
 
