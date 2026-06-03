@@ -20,9 +20,10 @@ show_minimal: true             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, url: "https://jordan-sawdy.github.io/"}
+  - {title: About Me, url: "https://jordan-sawdy.github.io/about/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
+  - {title: Email Me, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
   #- {title: Github, icon: github, url: "https://github.com/eCHTorc"}
 
 plugins:
