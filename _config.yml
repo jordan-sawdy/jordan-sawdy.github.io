@@ -19,8 +19,8 @@ show_minimal: true             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: Home, url: "https://jordan-sawdy.github.io/"}
-  - {title: About Me, url: "https://jordan-sawdy.github.io/about/"}
+  - {title: Home, icon: house, url: "https://jordan-sawdy.github.io/"}
+  - {title: About Me, icon: user-graduate, url: "https://jordan-sawdy.github.io/about/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Email Me, icon: envelope, url: "mailto:jordan.sawdy@gmail.com"}
