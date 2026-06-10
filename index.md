@@ -7,12 +7,6 @@
 <div style="margin-top: 0px; margin-bottom: 0.5px;">
 I offer personalized mathematics tutoring for a wide range of high school and college math courses, including all levels of (pre-)algebra and (pre-)calculus, differential equations, linear algebra, and more! I am available for online sessions via Zoom as well as in-person tutoring for students in the Lexington, KY area.
 
-<ul>
-  <li> <a href="https://jordan-sawdy.github.io/about/"> About Me </a> </li>
-
-  <li> <a href="https://echtorc.github.io/echt-research-seminar"> eCHT Research Seminar </a> 
-    <ul> <li> <a href="https://echtorc.github.io/echt-research-seminar-reading-group"> eCHT Research Seminar Reading Group </a> </li> </ul>
-  </li>
-</ul>
+To learn more about me, my appraoch, and my qualifications, please see the <a href="https://jordan-sawdy.github.io/about/"> About Me </a> page.
 
 </div>
